@@ -1,16 +1,40 @@
-# coffee_shop_ui
+# ☕ Coffee Shop UI
 
-A new Flutter project.
+A simple and elegant Coffee Shop UI built using **Flutter**.  
+This project demonstrates clean UI design, navigation, and state management for a shopping cart experience.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+### Shop Screen
+<img src="https://github.com/user-attachments/assets/532ac758-0d90-47c2-8984-41f72a86343f" width="300" alt="Shop Screen"/>
 
-A few resources to get you started if this is your first Flutter project:
+### Cart Screen
+<img src="https://github.com/user-attachments/assets/a93fa65f-fbce-4e43-a5d3-4685de8dc388" width="300" alt="Cart Screen"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Coffee menu with prices and images  
+- Add coffee items to the cart  
+- Remove items from the cart  
+- Cart screen showing selected items  
+- Navigation between **Shop** and **Cart** screens  
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Install [Flutter](https://flutter.dev/docs/get-started/install)  
+- Setup an editor (Android Studio / VS Code)
+
+### Run Locally
+```bash
+# Clone the repository
+git clone https://github.com/your-username/coffee_shop_ui.git
+
+# Navigate into the project
+cd coffee_shop_ui
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
